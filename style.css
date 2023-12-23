@@ -1,0 +1,34 @@
+body {
+    margin: 0;
+  }
+
+  canvas {
+    display: block;
+  }
+
+  #soundToggleButton {
+    padding: 10px 15px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    outline: none;
+  }
+
+  #soundToggleButton:hover {
+    background-color: #0056b3;
+  }
+
+  #loadingScreen {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }

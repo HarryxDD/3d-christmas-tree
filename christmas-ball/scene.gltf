@@ -1,0 +1,376 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 19320,
+      "max": [
+        0.023760000243782997,
+        0.025110000744462013,
+        0.056457001715898514
+      ],
+      "min": [
+        -0.023760000243782997,
+        -0.025110000744462013,
+        -0.056595999747514725
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 231840,
+      "componentType": 5126,
+      "count": 19320,
+      "max": [
+        0.9998329281806946,
+        0.999808132648468,
+        0.9496136903762817
+      ],
+      "min": [
+        -0.9999778270721436,
+        -0.9999786615371704,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 19320,
+      "max": [
+        1.0000089406967163,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 114432,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 463680,
+      "componentType": 5126,
+      "count": 19870,
+      "max": [
+        0.004846000112593174,
+        0.005140999797731638,
+        0.057440001517534256
+      ],
+      "min": [
+        -0.004662000108510256,
+        -0.005140999797731638,
+        0.05084399878978729
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 702120,
+      "componentType": 5126,
+      "count": 19870,
+      "max": [
+        0.9955077171325684,
+        0.9996498227119446,
+        1.0
+      ],
+      "min": [
+        -0.9954972863197327,
+        -0.9996219277381897,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 154560,
+      "componentType": 5126,
+      "count": 19870,
+      "max": [
+        1.0,
+        1.0
+      ],
+      "min": [
+        -0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 457728,
+      "componentType": 5125,
+      "count": 118656,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 940560,
+      "componentType": 5126,
+      "count": 1225,
+      "max": [
+        0.00039599998854100704,
+        0.0026289999950677156,
+        0.06162500008940697
+      ],
+      "min": [
+        -0.00039599998854100704,
+        -0.0026289999950677156,
+        0.056366000324487686
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 955260,
+      "componentType": 5126,
+      "count": 1225,
+      "max": [
+        0.9999933242797852,
+        1.0,
+        0.9999984502792358
+      ],
+      "min": [
+        -0.9999933242797852,
+        -1.0,
+        -0.9999984502792358
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 313520,
+      "componentType": 5126,
+      "count": 1225,
+      "max": [
+        1.0,
+        1.0
+      ],
+      "min": [
+        0.0,
+        -0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 932352,
+      "componentType": 5125,
+      "count": 6912,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Criistinaa (https://sketchfab.com/Criistinaa)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/christmas-ball-d8535fc58ff94c4aaf33ae08d1569eab",
+      "title": "Christmas Ball"
+    },
+    "generator": "Sketchfab-15.53.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 960000,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 323320,
+      "byteOffset": 960000,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 969960,
+      "byteOffset": 1283320,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 2253280,
+      "uri": "scene.bin"
+    }
+  ],
+  "extensionsUsed": [
+    "KHR_materials_specular"
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_specular": {
+          "specularColorFactor": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "specularFactor": 0.0
+        }
+      },
+      "name": "Ball",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1.0,
+          0.020074,
+          0.015547,
+          1.0
+        ],
+        "metallicFactor": 0.8134796338475685,
+        "roughnessFactor": 0.24261671989604333
+      }
+    },
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_specular": {
+          "specularColorFactor": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "specularFactor": 0.2365437101731548
+        }
+      },
+      "name": "material",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.8,
+          0.460791,
+          0.054845,
+          1.0
+        ],
+        "roughnessFactor": 0.16118548977353128
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Circle",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.1878209999999999,
+          0.12213900000000004,
+          0.013701999999999999,
+          1.0
+        ],
+        "roughnessFactor": 0.16118548977353128
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Object_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Object_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Object_2",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 9,
+            "POSITION": 8,
+            "TEXCOORD_0": 10
+          },
+          "indices": 11,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2,
+        3,
+        4
+      ],
+      "name": "XmasBall.obj.cleaner.materialmerger.gles"
+    },
+    {
+      "mesh": 0,
+      "name": "Object_2"
+    },
+    {
+      "mesh": 1,
+      "name": "Object_3"
+    },
+    {
+      "mesh": 2,
+      "name": "Object_4"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

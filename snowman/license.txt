@@ -1,0 +1,11 @@
+Model Information:
+* title:	Snowman
+* source:	https://sketchfab.com/3d-models/snowman-7fd9cd24d18a4e0ab735a740352bed5f
+* author:	Criistinaa (https://sketchfab.com/Criistinaa)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Snowman" (https://sketchfab.com/3d-models/snowman-7fd9cd24d18a4e0ab735a740352bed5f) by Criistinaa (https://sketchfab.com/Criistinaa) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
